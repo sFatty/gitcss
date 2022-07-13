@@ -2,8 +2,9 @@
     color: rgb(255, 255, 255);
     background-color: rgb(255, 0, 0);
     font-style: oblique;
-    width: 22em;
+
     text-decoration: underline;
+    text-align: center;
     
 }
 body {
@@ -12,14 +13,17 @@ body {
 }
 p {
     color: aqua;
+    text-align: start;
 }
 .claseconid {
     color: lime;
     text-decoration: underline;
+    text-align: center;
 }
 #tituloconid{
     color: plum;
     text-decoration: overline underline double;
+    text-align: right;
 
 }
 #nombre{
