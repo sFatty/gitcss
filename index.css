@@ -22,3 +22,17 @@ p {
     text-decoration: overline underline double;
 
 }
+#nombre{
+    color: red;
+    background-color: aqua;
+}
+.ingresar{
+    color: rgb(255, 251, 0);
+}
+#password{
+    color: blue;
+    background-color: brown;
+}
+.contra{
+    color: aqua;
+}
