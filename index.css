@@ -1,0 +1,24 @@
+.titulo {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    font-style: oblique;
+    width: 22em;
+    text-decoration: underline;
+    
+}
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+p {
+    color: aqua;
+}
+.claseconid {
+    color: lime;
+    text-decoration: underline;
+}
+#tituloconid{
+    color: plum;
+    text-decoration: overline underline double;
+
+}
