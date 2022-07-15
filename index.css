@@ -3,8 +3,10 @@
     background-color: rgb(255, 0, 0);
     font-style: oblique;
 
-    text-decoration: underline;
+    text-decoration: underline dashed rebeccapurple;
     text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    
     
 }
 body {
